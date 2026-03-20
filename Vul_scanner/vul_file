@@ -1,0 +1,59 @@
+vsftpd 2.3.4
+OpenSSH 7.2
+OpenSSH 7.4
+OpenSSH 6.6
+OpenSSH 5.3
+ProFTPD 1.3.3c
+ProFTPD 1.3.5
+FileZilla Server 0.9.41
+Apache 2.2.8
+Apache 2.2.14
+Apache 2.4.49
+Apache 2.4.50
+nginx 1.3.9
+nginx 1.4.0
+Microsoft-IIS/5.0
+Microsoft-IIS/6.0
+Microsoft-IIS/7.5
+Microsoft-IIS/7.0
+lighttpd 1.4.28
+lighttpd 1.4.31
+Sendmail 8.14.7
+Sendmail 8.13.8
+Postfix 2.3.8
+Postfix 2.5.5
+Exim 4.87
+Exim 4.92
+Dovecot 2.0
+Dovecot 2.1
+Dropbear sshd 2013.56
+Dropbear sshd 2015.67
+MySQL 5.5
+MySQL 5.6
+MySQL 5.1
+MariaDB 5.5
+MariaDB 10.0
+Redis 2.8
+Redis 3.0
+Samba 3.0.20
+Samba 3.6.3
+Samba 4.0.0
+Jetty 6.1
+Jetty 7.0
+GlassFish Server Open Source Edition 3.1
+Tomcat/6.0
+Tomcat/7.0
+Tomcat/8.0
+Node.js 6
+Node.js 8
+Python SimpleHTTPServer
+Boa/0.94
+MiniServ 1.580
+Webmin 1.580
+OpenSSL 1.0.1
+OpenSSL 1.0.2
+OpenSMTPD 6.6
+Pure-FTPd 1.0.36
+Pure-FTPd 1.0.42
+Serv-U FTP Server 15.1
+Wing FTP Server 6.4

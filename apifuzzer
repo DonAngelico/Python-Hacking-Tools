@@ -1,0 +1,19 @@
+import requests
+import json
+import sys
+
+def loop():
+
+    for word in sys.stdin:
+
+        url = "http://10.10.11.161/word/v1"
+        res = requests.get(url)
+        if res.status_cod 404
+            loop()
+        else:
+            data = res.json()
+            print(data)
+            print(res.status_code)
+            print(word)
+loop()
+        
